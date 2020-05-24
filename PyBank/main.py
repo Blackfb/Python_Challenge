@@ -13,7 +13,7 @@ Prev = 0
 with open(Csvpath, 'r') as Csvfile:
     Csv_reader = csv.reader(Csvfile, delimiter=',')
     Csv_header = next(Csv_reader)
-# Open in read mode and skip to Header
+#Filling up the empty list
     for row in Csv_reader:
         Months.append(row[0])
         Amount.append(row[1])
