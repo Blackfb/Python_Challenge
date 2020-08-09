@@ -1,7 +1,8 @@
-## PyBank
+## Python Project PyBank
 
 ![Revenue](Images/revenue-per-lead.png)
 
+# Overview ;
 * In this Project, I created  a Python script for analyzing the financial records of a company.
 
 * Created a Python script that analyzes the records to calculate each of the following:
